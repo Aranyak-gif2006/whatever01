@@ -1,4 +1,5 @@
-![Uploading Screenshot 2025-10-29 145740.png…]()
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 145740" src="https://github.com/user-attachments/assets/dc624145-daf3-4511-bb5e-4c6a56271a92" />
+
 
 # 🎲 NrmChain — On-Chain Number Guessing Game
 
