@@ -40,3 +40,4 @@ It’s a fun and educational example of how on-chain interactions and pseudo-ran
 
 ```solidity
 //paste your code
+Deployed Smart Contract Link : https://celo-sepolia.blockscout.com/tx/0x7d54fdcd04bee8db1ab3bb95b5f9059e83e591a4fc8b317a4ed1ed06964799c5
