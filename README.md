@@ -1,4 +1,5 @@
 ![Uploading Screenshot 2025-10-29 145740.png…]()
+
 # 🎲 NrmChain — On-Chain Number Guessing Game
 
 NrmChain is a simple **on-chain number guessing game** built with Solidity.  
